@@ -8,20 +8,20 @@ Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmai
   display: block;
   overflow-x: auto;
   padding: 0.5em;
-  background: #7289DA;
+  background: #170041;
   color: #FFFFFF;
 }
 
 .hljs-comment,
 .hljs-quote {
-  color: #586e75;
+  color: #999999;
 }
 
 /* Solarized Green */
 .hljs-keyword,
 .hljs-selector-tag,
 .hljs-addition {
-  color: #859900;
+  color: #5942f4;
 }
 
 /* Solarized Cyan */
