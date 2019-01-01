@@ -22,7 +22,7 @@ textarea {
 /* the line numbers */
 
 #linenos {
-  color: #FFFFFF;
+  color: #8d14ff;
 	z-index: -1000;
 	position: absolute;
 	top: 20px;
@@ -63,11 +63,11 @@ textarea {
 #box1 {
 	padding: 5px;
 	text-align: center;
-	background: #00222b;
+	background: #aa51ff;
 }
 
 #box2 {
-	background: #000000;
+	background: #9c37fc;
 	font-size: 0px;
 	padding: 0px 5px;
 }
@@ -113,7 +113,7 @@ textarea {
 }
 
 #box3, #messages li {
-	background: #000000;
+	background: #9c37fc;
 	font-family: Helvetica, sans-serif;
 	font-size: 12px;
 	line-height: 14px;
