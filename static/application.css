@@ -1,5 +1,5 @@
 body {
-	background: #002B36;
+	background: #7289DA;
 	padding: 20px 50px;
 	margin: 0px;
 }
@@ -22,7 +22,7 @@ textarea {
 /* the line numbers */
 
 #linenos {
-  color: #7d7d7d;
+  color: #FFFFFF;
 	z-index: -1000;
 	position: absolute;
 	top: 20px;
@@ -67,7 +67,7 @@ textarea {
 }
 
 #box2 {
-	background: #08323c;
+	background: #000000;
 	font-size: 0px;
 	padding: 0px 5px;
 }
@@ -113,7 +113,7 @@ textarea {
 }
 
 #box3, #messages li {
-	background: #173e48;
+	background: #000000;
 	font-family: Helvetica, sans-serif;
 	font-size: 12px;
 	line-height: 14px;
@@ -126,7 +126,7 @@ textarea {
 }
 
 #box3 .shortcut {
-	color: #c4dce3;
+	color: #FFFFFF; #save btn
 	font-weight: normal;
 }
 
