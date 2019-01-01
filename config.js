@@ -33,8 +33,8 @@
   },
 
   "storage": {
-    "path": "./haste-data"
-    "type": "file",
+    "path": "./haste-data",
+    "type": "file"
   },
 
   "documents": {
