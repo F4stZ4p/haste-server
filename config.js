@@ -1,11 +1,11 @@
 {
 
   "host": "0.0.0.0",
-  "port": 6969,
+  "port": 80,
 
   "keyLength": 10,
 
-  "maxLength": 400000,
+  "maxLength": 1000000,
 
   "staticMaxAge": 86400,
 
